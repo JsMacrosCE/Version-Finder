@@ -475,9 +475,28 @@
         "releaseType": "release",
         "status": "supported",
         "publishedAt": "2025-08-11"
+    }, {
+        "id": "EastArctica/JsMacros-Dev-2.0.0-1.21.8",
+        "repo": "EastArctica/JsMacros-Dev",
+        "fork": "EastArctica",
+        "commit": "cafc795a8e2a0c1deb5d40c73dc38e599dde64b1",
+        "jsMacrosVersion": "2.0.0",
+        "modLoader": ["fabric", "neoforge"],
+        "extensions": ["js", "python"],
+        "downloads": [
+            {
+                "name": "jsmacros-2.0.0-beta-cafc795.zip",
+                "platform": ["fabric", "neoforge", "python", "ts"],
+                "url": "https://github.com/EastArctica/JsMacros-Dev/actions/runs/20009266728",
+                "checksum": "sha256:2ac5bcc7afa5e2ce09e64f6a61deb28194faec3449411aad7b0351ee5843f9dd"
+            }
+        ],
+        "releaseType": "nightly",
+        "status": "experimental",
+        "publishedAt": "2025-12-07"
     }],
     "1.21.10": [{
-        "id": "EastArctica/JsMacros-Dev-2.0.0-1.21.10",
+        "id": "EastArctica/JsMacros-Dev-2.1.0-1.21.10",
         "repo": "EastArctica/JsMacros-Dev",
         "fork": "EastArctica",
         "commit": "48798ee25d3f863a12be5fcf2229b210b2166031",
