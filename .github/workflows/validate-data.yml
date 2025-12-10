@@ -6,7 +6,7 @@ on:
       - "data/**"
       - "scripts/**"
       - "package.json"
-      - "package-lock.json"
+      - "pnpm-lock.yaml"
       - "tsconfig.json"
       - ".github/workflows/validate-data.yml"
   pull_request:
@@ -14,7 +14,7 @@ on:
       - "data/**"
       - "scripts/**"
       - "package.json"
-      - "package-lock.json"
+      - "pnpm-lock.yaml"
       - "tsconfig.json"
       - ".github/workflows/validate-data.yml"
 
@@ -23,9 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
-      - run: npm ci
-      - run: npm run validate:data
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm run validate:data
