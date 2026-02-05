@@ -435,6 +435,44 @@
         "releaseType": "beta",
         "publishedAt": "2025-12-09",
         "sourceUrl": "https://github.com/Pablete1234/JsMacros/releases/tag/1.21.5"
+      },
+      {
+        "id": "JsMacrosCE/JsMacros-2.0.0-beta.4-1.21.5",
+        "repo": "JsMacrosCE/JsMacros",
+        "fork": "JsMacrosCE",
+        "commit": "a1dfdded048e6a4990c7fd0ea4d48fe57f69deb3",
+        "jsMacrosVersion": "2.0.0-beta.4",
+        "modLoader": ["fabric", "neoforge"],
+        "extensions": ["js", "python"],
+        "downloads": [
+          {
+            "name": "jsmacrosce-1.21.5-fabric-2.0.0-beta.4.jar",
+            "platform": ["fabric"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.5-fabric-2.0.0-beta.4.jar",
+            "checksum": "sha256:02be34f026206a12326a00305285c9379d2fd5d412ca232597bfcb93b4df5fff"
+          },
+          {
+            "name": "jsmacrosce-1.21.5-neoforge-2.0.0-beta.4.jar",
+            "platform": ["neoforge"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.5-neoforge-2.0.0-beta.4.jar",
+            "checksum": "sha256:254f6e91cd165ce9929ffe5cea42f1b1e57eac0509002c75a65ce330d7365bd2"
+          },
+          {
+            "name": "jsmacrosce-devkit-1.21.5-2.0.0-beta.4.zip",
+            "platform": ["ts", "devkit"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-devkit-1.21.5-2.0.0-beta.4.zip",
+            "checksum": "sha256:ab93cc15ce372608b91e747201ea92bc44fc68ee79843f9f3f77ce07b47a9a7f"
+          },
+          {
+            "name": "jsmacrosce-ext-graalpy-1.21.5-2.0.0-beta.4.jar",
+            "platform": ["python"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-ext-graalpy-1.21.5-2.0.0-beta.4.jar",
+            "checksum": "sha256:5cd7f8373194ba576aa44991ac3fe0cc3fe5f0b03a59d8feb93e9a02f80041a1"
+          }
+        ],
+        "releaseType": "beta",
+        "publishedAt": "2026-02-04",
+        "sourceUrl": "https://github.com/JsMacrosCE/JsMacros/releases/tag/v2.0.0-beta.4"
       }
     ],
     "1.21.7": [
@@ -509,92 +547,122 @@
         "deprecated": true
       },
       {
-        "id": "EastArctica/JsMacros-Dev-2.0.0-1.21.8",
-        "repo": "EastArctica/JsMacros-Dev",
-        "fork": "EastArctica",
-        "commit": "d9d83cc12ee4e61f06c9698ab26aacd02c75357c",
-        "jsMacrosVersion": "2.0.0",
+        "id": "JsMacrosCE/JsMacros-2.0.0-beta.4-1.21.8",
+        "repo": "JsMacrosCE/JsMacros",
+        "fork": "JsMacrosCE",
+        "commit": "a1dfdded048e6a4990c7fd0ea4d48fe57f69deb3",
+        "jsMacrosVersion": "2.0.0-beta.4",
         "modLoader": ["fabric", "neoforge"],
         "extensions": ["js", "python"],
         "downloads": [
           {
-            "name": "jsmacros-1.21.8-fabric-2.0.0-dev-d9d83cc.jar",
+            "name": "jsmacrosce-1.21.8-fabric-2.0.0-beta.4.jar",
             "platform": ["fabric"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/releases/download/v2.0.0-dev-d9d83cc%2B1.21.8/jsmacros-1.21.8-fabric-2.0.0-dev-d9d83cc.jar",
-            "checksum": "sha256:88f1e0a4a3f269240b52963db72ebc82f0dd3f20b8de9a5dc6df7bcd08a7e811"
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.8-fabric-2.0.0-beta.4.jar",
+            "checksum": "sha256:2ab2c59bdd9c3e48d59715ffc5e62533a493b01377b5aac49373e4326e81d086"
           },
           {
-            "name": "jsmacros-1.21.8-neoforge-2.0.0-dev-d9d83cc.jar",
+            "name": "jsmacrosce-1.21.8-neoforge-2.0.0-beta.4.jar",
             "platform": ["neoforge"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/releases/download/v2.0.0-dev-d9d83cc%2B1.21.8/jsmacros-1.21.8-neoforge-2.0.0-dev-d9d83cc.jar",
-            "checksum": "sha256:cbfccbfecff687013a754d58c269796baa6b16090fd04444b4217b468b440d22"
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.8-neoforge-2.0.0-beta.4.jar",
+            "checksum": "sha256:ef044d9ee46044180bf530a394be7d4a313100fc3e09b6c77ca926e09c4bab5a"
           },
           {
-            "name": "jsmacros-devkit-1.21.8-2.0.0-dev-d9d83cc.zip",
+            "name": "jsmacrosce-devkit-1.21.8-2.0.0-beta.4.zip",
             "platform": ["ts", "devkit"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/releases/download/v2.0.0-dev-d9d83cc%2B1.21.8/jsmacros-devkit-1.21.8-2.0.0-dev-d9d83cc.zip",
-            "checksum": "sha256:c0234dcc650f09f8228223c4b2e58dfdd57f2d4a58f5855f343faf53e9f81b47"
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-devkit-1.21.8-2.0.0-beta.4.zip",
+            "checksum": "sha256:ab93cc15ce372608b91e747201ea92bc44fc68ee79843f9f3f77ce07b47a9a7f"
           },
           {
-            "name": "jsmacros-ext-graalpy-1.21.8-2.0.0-dev-d9d83cc.jar",
+            "name": "jsmacrosce-ext-graalpy-1.21.8-2.0.0-beta.4.jar",
             "platform": ["python"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/releases/download/v2.0.0-dev-d9d83cc%2B1.21.8/jsmacros-ext-graalpy-1.21.8-2.0.0-dev-d9d83cc.jar",
-            "checksum": "sha256:ff5edfd5f7d7ce170e6c7332e9c034588db414436053c82fd7bdf2517f98ea2a"
-          },
-          {
-            "name": "jsmacros-extensions-1.21.8-2.0.0-dev-d9d83cc.zip",
-            "platform": ["python"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/releases/download/v2.0.0-dev-d9d83cc%2B1.21.8/jsmacros-extensions-1.21.8-2.0.0-dev-d9d83cc.zip",
-            "checksum": "sha256:ffc1e5fa0ab429a3bb9815375cabf83e49e3cfacbe744e4c43836734b87085ad"
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-ext-graalpy-1.21.5-2.0.0-beta.4.jar",
+            "checksum": "sha256:5cd7f8373194ba576aa44991ac3fe0cc3fe5f0b03a59d8feb93e9a02f80041a1"
           }
         ],
-        "releaseType": "nightly",
-        "publishedAt": "2025-12-11",
-        "sourceUrl": "https://github.com/EastArctica/JsMacros-Dev/releases/tag/v2.0.0-dev-d9d83cc%2B1.21.8"
+        "releaseType": "beta",
+        "publishedAt": "2026-02-04",
+        "sourceUrl": "https://github.com/JsMacrosCE/JsMacros/releases/tag/v2.0.0-beta.4"
       }
     ],
     "1.21.10": [
       {
-        "id": "EastArctica/JsMacros-Dev-2.1.0-1.21.10",
-        "repo": "EastArctica/JsMacros-Dev",
-        "fork": "EastArctica",
-        "commit": "97a71509a1fe21d62c02caba57d23b2c165faabd",
-        "jsMacrosVersion": "2.1.0",
+        "id": "JsMacrosCE/JsMacros-2.0.0-beta.4-1.21.10",
+        "repo": "JsMacrosCE/JsMacros",
+        "fork": "JsMacrosCE",
+        "commit": "a1dfdded048e6a4990c7fd0ea4d48fe57f69deb3",
+        "jsMacrosVersion": "2.0.0-beta.4",
         "modLoader": ["fabric", "neoforge"],
         "extensions": ["js", "python"],
         "downloads": [
           {
-            "name": "jsmacros-2.1.0-beta-97a7150.zip",
-            "platform": ["fabric", "neoforge", "python", "ts"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/actions/runs/20122244055",
-            "checksum": "sha256:567713fbc5936b32507b0d869e5bf1b61df9798903571369ce58f8d8cde65c07"
+            "name": "jsmacrosce-1.21.10-fabric-2.0.0-beta.4.jar",
+            "platform": ["fabric"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.10-fabric-2.0.0-beta.4.jar",
+            "checksum": "sha256:c3911ae81d4cb49e4b1fa265b77018da85625a33d35cbd65ae484bf52933c1b6"
+          },
+          {
+            "name": "jsmacrosce-1.21.10-neoforge-2.0.0-beta.4.jar",
+            "platform": ["neoforge"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.10-neoforge-2.0.0-beta.4.jar",
+            "checksum": "sha256:f226310ca0282f05aa576f72673d4e98f4d255e69231d22fb7034f589fda12af"
+          },
+          {
+            "name": "jsmacrosce-devkit-1.21.10-2.0.0-beta.4.zip",
+            "platform": ["ts", "devkit"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-devkit-1.21.10-2.0.0-beta.4.zip",
+            "checksum": "sha256:ab93cc15ce372608b91e747201ea92bc44fc68ee79843f9f3f77ce07b47a9a7f"
+          },
+          {
+            "name": "jsmacrosce-ext-graalpy-1.21.10-2.0.0-beta.4.jar",
+            "platform": ["python"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-ext-graalpy-1.21.5-2.0.0-beta.4.jar",
+            "checksum": "sha256:5cd7f8373194ba576aa44991ac3fe0cc3fe5f0b03a59d8feb93e9a02f80041a1"
           }
         ],
-        "releaseType": "nightly",
-        "publishedAt": "2025-12-10",
-        "sourceUrl": "https://github.com/EastArctica/JsMacros-Dev/commit/48798ee25d3f863a12be5fcf2229b210b2166031"
+        "releaseType": "beta",
+        "publishedAt": "2026-02-04",
+        "sourceUrl": "https://github.com/JsMacrosCE/JsMacros/releases/tag/v2.0.0-beta.4"
       }
     ],
     "1.21.11": [
       {
-        "id": "EastArctica/JsMacros-Dev-2.1.0-1.21.11",
-        "repo": "EastArctica/JsMacros-Dev",
-        "fork": "EastArctica",
-        "commit": "cbc8b81e6d829289a0d3254db9da81b5b4531e35",
-        "jsMacrosVersion": "2.1.0",
+        "id": "JsMacrosCE/JsMacros-2.0.0-beta.4-1.21.11",
+        "repo": "JsMacrosCE/JsMacros",
+        "fork": "JsMacrosCE",
+        "commit": "a1dfdded048e6a4990c7fd0ea4d48fe57f69deb3",
+        "jsMacrosVersion": "2.0.0-beta.4",
         "modLoader": ["fabric", "neoforge"],
         "extensions": ["js", "python"],
         "downloads": [
           {
-            "name": "jsmacros-2.1.0-beta-cbc8b81.zip",
-            "platform": ["fabric", "neoforge", "python", "ts"],
-            "url": "https://github.com/EastArctica/JsMacros-Dev/actions/runs/20122356970",
-            "checksum": "sha256:c9bbcd1d55a371fc891f77cd81b82c73a1b8c9483735614231646a67a9f6e6a8"
+            "name": "jsmacrosce-1.21.11-fabric-2.0.0-beta.4.jar",
+            "platform": ["fabric"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.11-fabric-2.0.0-beta.4.jar",
+            "checksum": "sha256:b0d96a271e538297fa219611a157ad6316c7d59d5ed0eb56543cb5e961b0a42e"
+          },
+          {
+            "name": "jsmacrosce-1.21.11-neoforge-2.0.0-beta.4.jar",
+            "platform": ["neoforge"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-1.21.11-neoforge-2.0.0-beta.4.jar",
+            "checksum": "sha256:c6276c2d9fccbfe5ef308a8a301c2c717399c8d53b24a45ebafa5c6f0089e943"
+          },
+          {
+            "name": "jsmacrosce-devkit-1.21.11-2.0.0-beta.4.zip",
+            "platform": ["ts", "devkit"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-devkit-1.21.11-2.0.0-beta.4.zip",
+            "checksum": "sha256:ab93cc15ce372608b91e747201ea92bc44fc68ee79843f9f3f77ce07b47a9a7f"
+          },
+          {
+            "name": "jsmacrosce-ext-graalpy-1.21.11-2.0.0-beta.4.jar",
+            "platform": ["python"],
+            "url": "https://github.com/JsMacrosCE/JsMacros/releases/download/v2.0.0-beta.4/jsmacrosce-ext-graalpy-1.21.5-2.0.0-beta.4.jar",
+            "checksum": "sha256:5cd7f8373194ba576aa44991ac3fe0cc3fe5f0b03a59d8feb93e9a02f80041a1"
           }
         ],
-        "releaseType": "nightly",
-        "publishedAt": "2025-12-10",
-        "sourceUrl": "https://github.com/EastArctica/JsMacros-Dev/commit/cbc8b81e6d829289a0d3254db9da81b5b4531e35"
+        "releaseType": "beta",
+        "publishedAt": "2026-02-04",
+        "sourceUrl": "https://github.com/JsMacrosCE/JsMacros/releases/tag/v2.0.0-beta.4"
       }
     ]
   }
