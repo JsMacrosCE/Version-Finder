@@ -2,7 +2,7 @@ import { readFile } from 'node:fs/promises';
 import { basename } from 'node:path';
 import { z } from 'zod';
 
-const platformEnum = z.enum(['fabric', 'forge', 'neoforge', 'extension', 'ts', 'other', 'python']);
+const platformEnum = z.enum(['fabric', 'forge', 'neoforge', 'extension', 'ts', 'devkit', 'other', 'python', 'ruby']);
 const loaderEnum = z.enum(['fabric', 'forge', 'neoforge']);
 const releaseTypeEnum = z.enum(['release', 'beta', 'nightly']);
 

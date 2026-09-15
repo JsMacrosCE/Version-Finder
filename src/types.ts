@@ -1,4 +1,4 @@
-export type Platform = 'fabric' | 'forge' | 'neoforge' | 'extension' | 'ts' | 'other' | 'python';
+export type Platform = 'fabric' | 'forge' | 'neoforge' | 'extension' | 'ts' | 'other' | 'python' | 'ruby';
 export type Loader = 'fabric' | 'forge' | 'neoforge';
 export type ReleaseType = 'release' | 'beta' | 'nightly';
 
